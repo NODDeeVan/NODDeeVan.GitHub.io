@@ -1,29 +1,8 @@
 ## 我和宝宝的日记
 
 ```markdown
-Syntax highlighted code block
+2019.5.15,在一起已经180天了.
 
-# Header 1
-## Header 2
-### Header 3
+要给宝宝种好多好多盆满天星.要给宝宝买最好吃的葡萄.要陪宝宝听遍人生雨雪.要和宝宝一起变得可爱.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NODDeeVan/NODDeeVan.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
