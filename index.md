@@ -1,6 +1,4 @@
-## 钱院学辅
-
-欢迎来到钱院学辅信息站!
+## 我和宝宝的日记
 
 ```markdown
 Syntax highlighted code block
